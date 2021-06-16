@@ -11,3 +11,5 @@ pure python implementation of MICO algorithm adapted from MATLAB code.
 [1]Chunming, Li, John, et al. Multiplicative intrinsic component optimization (MICO) for MRI bias field estimation and tissue segmentation[J]. Magnetic Resonance Imaging, 2014, 32(7):913-923.
 
 ## Result
+
+![result](data\result.png)
